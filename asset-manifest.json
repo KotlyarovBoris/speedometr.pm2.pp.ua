@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4cdca3e6.css",
+    "main.js": "/static/js/main.2884785d.js",
+    "static/js/787.41dd1479.chunk.js": "/static/js/787.41dd1479.chunk.js",
+    "static/media/Screenshot_1706436755.png": "/static/media/Screenshot_1706436755.7f317e2dd94b2bc2f166.png",
+    "static/media/Screenshot_1706436767.png": "/static/media/Screenshot_1706436767.8ee437121fe0d016aa48.png",
+    "static/media/speedometr.png": "/static/media/speedometr.ec4ed569448150167988.png",
+    "static/media/speed.svg": "/static/media/speed.5e91d64bd0c96c09fdbd64a1119ededd.svg",
+    "index.html": "/index.html",
+    "static/media/satellite_alt.svg": "/static/media/satellite_alt.32815fb287c32ad20c148d5fbe4028b5.svg",
+    "static/media/map-marker-distance.svg": "/static/media/map-marker-distance.db99ba43cf7148caeb814f9905d048de.svg",
+    "static/media/map-marker-path.svg": "/static/media/map-marker-path.82024f0e05841a1c52ace43cd863efe7.svg",
+    "static/media/gas-station.svg": "/static/media/gas-station.dace5de8ff0cce03aedd447008e2c859.svg",
+    "static/media/arrow-up-right.svg": "/static/media/arrow-up-right.8ad8f3282838e456c98f3f6ca552fa3c.svg",
+    "main.4cdca3e6.css.map": "/static/css/main.4cdca3e6.css.map",
+    "main.2884785d.js.map": "/static/js/main.2884785d.js.map",
+    "787.41dd1479.chunk.js.map": "/static/js/787.41dd1479.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4cdca3e6.css",
+    "static/js/main.2884785d.js"
+  ]
+}
